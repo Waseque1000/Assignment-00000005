@@ -1,0 +1,22 @@
+ 1. navbar 
+ 2. initial amount must 
+
+ ...
+ banner 
+ a 2 ta button dite hbe 
+     center align 
+
+Donation   
+     donetion a click korle minimum 3/6 ta card dite hbe  
+     left a img  
+     right a ** amount a thakbe  oi amount ta page a ja amount ta add korbe oita add hbe
+     ** imput field a donete dibe [posetive ]  (- negative value / name ) hole alert hbe 
+    chalenging a alert swit alert *** 
+
+## page a donete korer por main section a amount minus hbe  hbe  r ja campain / page a donet korbo oi page a add hbe 
+
+
+History 
+    joto gulo donetion korbo oigula history te add hbe 
+    time show korte hbe ..
+    
