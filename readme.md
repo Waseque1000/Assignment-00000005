@@ -3,3 +3,4 @@
 ## Key Rule
 
 waseque-kcg.surge.sh
+[link](waseque-kcg.surge.sh)
